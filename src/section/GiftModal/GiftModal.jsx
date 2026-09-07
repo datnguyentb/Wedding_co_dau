@@ -64,15 +64,15 @@ export const GiftModal = ({ downloadQR }) => {
 
                         <div className={cx('qr-container-popup')}>
                             <div className={cx('qr-card-popup')}>
-                                <h4 className={cx('qr-side-title')}>Chú Rể — Nguyễn Văn Khương</h4>
+                                <h4 className={cx('qr-side-title')}>Cô Dâu — Vũ Thị Huế</h4>
 
                                 <div className={cx('qr-img-box-popup')}>
                                     <img src={qrGroomImg} alt="QR Chú Rể" id="qrGroomImg" />
                                 </div>
 
                                 <p className={cx('qr-bank')}>Vietcombank</p>
-                                <p className={cx('qr-account')}>0211000512095</p>
-                                <p className={cx('qr-account-name')}>Nguyễn Văn Khương</p>
+                                <p className={cx('qr-account')}>1012815232</p>
+                                <p className={cx('qr-account-name')}>Vu Thi Hue</p>
 
                                 <button
                                     type="button"

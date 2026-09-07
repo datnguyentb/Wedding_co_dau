@@ -16,12 +16,12 @@ export const VenueSection = () => {
                     </div>
 
                     {/* Tên địa điểm chữ viết tay uốn lượn */}
-                    <p className={cx('venue-address')}>Thôn Kênh Đào, xã Vũ Tiên, tỉnh Hưng Yên</p>
+                    <p className={cx('venue-address')}>Tổ 13, phường Trà Lý, tỉnh Hưng Yên</p>
 
                     {/* Bản đồ Embed */}
                     <div className={cx('map-container')}>
                         <iframe
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1870.5583478528943!2d106.27138531308914!3d20.336797278199313!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135e305978feaad%3A0x56795b2f4691f396!2zTmjDoCB2xINuIGjDs2EgdGjDtG4gS8OqbmggxJDDoG8sIFbFqSBUaMawLCBUaMOhaSBCw6xuaA!5e0!3m2!1svi!2s!4v1788525650446!5m2!1svi!2s"
+                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d934.4017905297352!2d106.36913074714379!3d20.481321908912626!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135fabb61431c1f%3A0xfc99c3e1b1c743a3!2zTmjDoCBIw6BuZyBRdWFuZyBLaOG6o2k!5e0!3m2!1svi!2s!4v1788807445789!5m2!1svi!2s"
                             width="100%"
                             height="260"
                             style={{ border: 0 }}
@@ -32,7 +32,7 @@ export const VenueSection = () => {
 
                     <div className={cx('map-btn-box')}>
                         <a
-                            href="https://maps.app.goo.gl/kJaeNam5m5Q2N6W36"
+                            href="https://maps.app.goo.gl/kCW8f9CEEXJfQ82Y9"
                             target="_blank"
                             rel="noopener noreferrer"
                             className={cx('open-map-btn')}
