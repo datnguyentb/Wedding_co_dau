@@ -1,0 +1,17 @@
+//import biến
+@use 'variables' as *;
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    min-height: 100vh;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2 {
+    font-family: $font-garamond;
+}
