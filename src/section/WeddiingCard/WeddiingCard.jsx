@@ -65,11 +65,11 @@ function WeddiingCard({ setIsPlaying }) {
                             <FaHeart className={cx('heart-icon')} />
                         </div>
                         <h2 className={cx('cover-names')}>
-                            Văn Khương
+                            Thu Huế
                             <br />
                             <span className={cx('ampersand')}>&</span>
                             <br />
-                            Thu Huế
+                            Văn Khương
                         </h2>
                         <div className={cx('divider-line')}>
                             <span className={cx('divider-dot')}>✿</span>

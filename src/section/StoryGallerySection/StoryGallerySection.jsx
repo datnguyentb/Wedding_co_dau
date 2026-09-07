@@ -20,9 +20,9 @@ export const StoryGallerySection = () => {
                 <p className={cx('quote-text')}>Hạnh phúc lớn nhất chính là có thể đặt tay mình vào tay em.</p>
                 <div className={cx('card-hero-photo')}>
                     <div className={cx('names-side')}>
-                        <span>Khương</span>
-                        <span className={cx('ampersand')}>&</span>
                         <span>Huế</span>
+                        <span className={cx('ampersand')}>&</span>
+                        <span>Khương</span>
                     </div>
                     <div className={cx('photo-side')}>
                         <img src={img3} alt="Ảnh đôi" />

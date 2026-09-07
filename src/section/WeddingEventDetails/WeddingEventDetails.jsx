@@ -45,7 +45,7 @@ export const WeddingEventDetails = () => {
                 <p className={cx('event-title')}>THAM DỰ TIỆC MỪNG LỄ THÀNH HÔN</p>
                 <p className={cx('event-sub')}>Vào lúc</p>
                 <div className={cx('date-display')}>
-                    <div className={cx('time-col')}>11:00</div>
+                    <div className={cx('time-col')}>10:00</div>
                     <div className={cx('divider')}></div>
                     <div className={cx('day-col')}>
                         <span className={cx('day-name')}>Chủ Nhật</span>
