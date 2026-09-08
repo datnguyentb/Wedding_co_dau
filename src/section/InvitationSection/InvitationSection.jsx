@@ -11,7 +11,7 @@ const cx = classNames.bind(styles);
 
 export const InvitationSection = () => {
     // Ngày mục tiêu: 11:00 AM, ngày 20/09/2026
-    const TARGET_DATE = new Date('2026-09-20T11:00:00').getTime();
+    const TARGET_DATE = new Date('2026-09-20T10:00:00').getTime();
 
     const [timeLeft, setTimeLeft] = useState({
         days: 0,
